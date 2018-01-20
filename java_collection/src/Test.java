@@ -15,5 +15,9 @@ public class Test {
         Map;
         Map.Entry;
         Iterator;
+        HashMap;
+        TreeMap;
+        HashSet;
+        TreeSet;
     }
 }
