@@ -1,2 +1,5 @@
 # java_collection
-Java集合详解
+### Java源码解析
+
+- 主要参考博客：[Leesf的博客](http://www.cnblogs.com/leesf456)
+
