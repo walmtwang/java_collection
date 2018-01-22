@@ -16,6 +16,7 @@ public class Test {
         Map.Entry;
         Iterator;
         HashMap;
+        LinkedHashMap;
         TreeMap;
         HashSet;
         TreeSet;
